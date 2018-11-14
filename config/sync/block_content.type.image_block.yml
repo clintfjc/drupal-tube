@@ -1,0 +1,8 @@
+uuid: b3b81850-b3d1-431b-90b3-7beaa5c08097
+langcode: en
+status: true
+dependencies: {  }
+id: image_block
+label: 'Image Block'
+revision: 0
+description: 'Allows a user to create a block with image'
